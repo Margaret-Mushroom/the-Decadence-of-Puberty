@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2020 离子态迷因海藻糖
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: ce769eb769df39e326bd
+  clientSecret: c53179c17d9be2e5c0a8aa9521ce5ca442b1ac40
+  repo: COMMENTS
+  owner: Margaret-Mushroom
 
 # 输入Google Analytics web tracking code
 google_analytics:
