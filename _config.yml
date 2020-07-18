@@ -79,7 +79,7 @@ disqus:  #shortname
 gitalk:
   clientID: ce769eb769df39e326bd
   clientSecret: c53179c17d9be2e5c0a8aa9521ce5ca442b1ac40
-  repo: COMMENTS
+  repo: the-Decadence-of-Puberty
   owner: Margaret-Mushroom
 
 # 输入Google Analytics web tracking code
